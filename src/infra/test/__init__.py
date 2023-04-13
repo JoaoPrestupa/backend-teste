@@ -1,2 +1,2 @@
-#Estruturas auxiliadoras para teste
-from .user_repository_spy import UserRepositorySpy
+from .mock_user import mock_users
+from .mock_pet import mock_pet
